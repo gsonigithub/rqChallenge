@@ -5,3 +5,6 @@ server:
   compression:
     enabled: true
 mock.employees.max: 50
+springdoc:
+  api-docs:
+    path: /v3/api-docs
